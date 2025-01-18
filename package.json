@@ -1,0 +1,14 @@
+{
+  "name": "music-website",
+  "version": "1.0.0",
+  "description": "A music website with playback and download features",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5",
+    "multer": "^1.4.5-lts.1"
+  }
+}
